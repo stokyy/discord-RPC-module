@@ -1,0 +1,7 @@
+pystray
+Pillow
+pywin32
+psutil
+ctypes
+win11toast
+pypresence

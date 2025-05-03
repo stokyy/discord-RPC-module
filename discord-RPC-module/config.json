@@ -1,0 +1,9 @@
+{
+    "application_id": "00000000000000000",
+    "debug_mode": false,
+    "time": 1,
+    "trey": false,
+    "applications": {
+        "яндекс музыка": {"custom_name": "Яндекс Музыке", "text": "слушает музыку", "image": "default", "small_image": "ya_music_icon", "tooltip": "макан лучший репер!", "small_text": "Яндекс Музыка"}
+    }
+}
